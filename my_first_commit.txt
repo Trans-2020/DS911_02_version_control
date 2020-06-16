@@ -1,2 +1,0 @@
-I'm learning version control with MarTechApe DS911.
-This is my first git commit for my first git repo.
